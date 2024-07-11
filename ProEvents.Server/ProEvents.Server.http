@@ -1,0 +1,6 @@
+@ProEvents.Server_HostAddress = http://localhost:5126
+
+GET {{ProEvents.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
